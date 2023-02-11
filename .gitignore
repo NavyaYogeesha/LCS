@@ -1,0 +1,5 @@
+/node_modules
+.DS_Store
+/src/css/style.css
+/src/css/style.css.map
+/dist
